@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="BK_logo.png" alt="BK Logo" width="150"/>
-</p>
+<img src="images/A_logo_for_Brian_Koech,_specializing_in_AI_Evaluat.png" alt="Logo" width="200">
 
-# 🧠 Brian Koech  
+#  Brian Koech  
 **AI Evaluation & Prompt Design Specialist**# AI-Evaluation-Portfolio
 A portfolio showcasing my work in AI Evaluation, Prompt Design, and Quality Assurance.
