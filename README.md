@@ -1,9 +1,3 @@
-<!-- ===== AI Evaluation Portfolio ===== -->
-
-<p align="center">
-  <img src="https://github.com/543219/AI-Evaluation-Portfolio/blob/main/KoechBrianLogo.png?raw=true" width="180" alt="Koech Brian Logo"/>
-</p>
-
 <h1 align="center">AI Evaluation Portfolio</h1>
 <h3 align="center">Brian Koech — Generalist Evaluation Expert</h3>
 
